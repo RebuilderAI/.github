@@ -3,7 +3,13 @@
 
 ## Hi there 👋 We're Rebuilder.AI!
 > Homepage: https://vrin.co.kr/  
-> Homepage: https://rebuilderai.com/
+
+
+## Products
+### VRIN: Easy&Super-fast AI 3D Designer (Comming soon!)
+![Icon-128](https://user-images.githubusercontent.com/48865276/175259584-98eba77b-c0d3-4437-aa0f-3be66eee8fa1.png) $~~~~$ ![VRIN logo_color](https://user-images.githubusercontent.com/48865276/175258660-dca8c2d2-7be8-41db-94cc-a2a399b053bc.png)
+
+
 
 ## News
 - (2022.6.23) We've joined Microsoft Startup Partners!  
