@@ -15,6 +15,12 @@
 - (2022.6.23) We become a Microsoft Startup Partner!  
 <img width="393" alt="MS_Startups_Celebration_Badge_Dark" src="https://user-images.githubusercontent.com/48865276/175256804-b775ff28-06e4-48f5-acd0-16fd16ed7c78.png">
 
+
+## *Contact (Feel free to contact)
+- For buisiness: rebuilderai@rebuilderai.com
+- Technicals: q10park@rebuilderai.com
+
+
 <!--
 
 **Here are some ideas to get you started:**
