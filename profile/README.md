@@ -1,4 +1,13 @@
-## Hi there 👋
+
+![2022-06-23_17-44-21](https://user-images.githubusercontent.com/48865276/175257706-7b24117c-b1e3-4c69-9346-b3d90330935b.png)
+
+## Hi there 👋 We're Rebuilder.AI!
+> Homepage: https://vrin.co.kr/  
+> Homepage: https://rebuilderai.com/
+
+## News
+- (2022.6.23) We've joined Microsoft Startup Partners!  
+<img width="393" alt="MS_Startups_Celebration_Badge_Dark" src="https://user-images.githubusercontent.com/48865276/175256804-b775ff28-06e4-48f5-acd0-16fd16ed7c78.png">
 
 <!--
 
